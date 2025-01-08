@@ -1,0 +1,13 @@
+{
+"luatex.library": [
+    "all",
+    "luatex",
+    "luametatex",
+    "lualatex",
+    "lualibs",
+    "luaotfload"
+],
+"Lua.workspace.library": [
+    "c:\\Users\\benni\\.vscode\\extensions\\joseffriedrich.luatex-0.15.0\\library"
+]
+}
